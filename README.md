@@ -10,3 +10,8 @@
 - Smart Contract Best Practices → Healthcare compliance checklist.
 - CNCF TAG-Security → Healthcare + mental wellness doc.
 - Dune Spellbook → Baseline Ethereum tx model + 7-day avg.
+
+### Links
+
+- Stable login tag: https://github.com/Where-Mental-Wellness-Meets-Metaverse/secure-health-login/tree/stable-login-ok-2025-08-31
+- Dune VITA query (5617908): https://dune.com/queries/5617908

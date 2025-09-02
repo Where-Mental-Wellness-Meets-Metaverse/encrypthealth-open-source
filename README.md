@@ -48,3 +48,10 @@ It serves as a transparent record of reproducible states (tags, PRs, dashboards,
 Every stable state (e.g., demo, integration, bugfix) will be:  
 1. Tagged in its working repo.  
 2. Recorded here with links, notes, and dashboards.  
+
+## Database Schema
+
+- [OSS Governance Schema SQL](oss_governance.sql)
+- [OSS Governance ERD PNG](oss_governance_ERD.png)
+- [ERD Legend](ERD_LEGEND.md)
+
